@@ -7,19 +7,19 @@
 
 # Lista de vinhos disponíveis
 vinhos = {
-    'ROSÉS': [
+    'Roses': [
         {'nome': '1-Cabernet Franc', 'preço': 70},
         {'nome': '2-Syrah', 'preço': 80},
         {'nome': '3-Grenache', 'preço': 60}
     ],
-    'TINTOS': [
+    'Tintos': [
         {'nome': '1-Cabernet Sauvignon', 'preço': 100},
         {'nome': '2-Pinot Noir', 'preço': 120},
         {'nome': '3-Tinto Malbec', 'preço': 80},
         {'nome': '4-Tinto Merlot', 'preço': 90},
         {'nome': '5-Tinto Syrah', 'preço': 100}
     ],
-    'BRANCOS': [
+    'Brancos': [
         {'nome': '1-Chardonnay', 'preço': 80},
         {'nome': '2-Sauvignon Blanc', 'preço': 70},
         {'nome': '3-Riesling', 'preço': 90},
